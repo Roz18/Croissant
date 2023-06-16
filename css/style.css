@@ -1,6 +1,26 @@
 body {
-  background-color: rgba(136, 0, 255, 0.621);
+  background-color: rgba(240, 175, 235, 0.621);
 }
 h1 {
-  color: blue;
+  color: rgb(55, 3, 79);
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 15px;
+  padding: 25px;
+  color: rgb(43, 5, 38);
+}
+.pinkrose {
+  display: block;
+  max-width: 50%;
+  margin: 30px auto;
 }
